@@ -1,0 +1,15 @@
+/*header*/
+.jumbotron>.container{
+	text-align: center;
+	padding:3%;
+}
+.thumbnail{
+	width:410px;
+	height:480px;
+}
+.thumbnail>img{
+	max-width:100%;
+}
+.six>.row>div{
+	margin:auto 0px;
+}
